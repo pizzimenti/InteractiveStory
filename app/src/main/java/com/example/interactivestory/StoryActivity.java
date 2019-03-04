@@ -1,4 +1,4 @@
-package com.example.interactivestory;
+gitpackage com.example.interactivestory;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
